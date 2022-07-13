@@ -1,0 +1,213 @@
+### 13 Juli 2022 ###
+=== LINK SERTIFIKAT DICODING ===
+* begusibrahim000@gmail.com *
+
+- Belajar Membuat Front-End Web untuk Pemula :
+  https://www.dicoding.com/certificates/MRZMDNL6KZYQ
+
+- Belajar Dasar Pemrograman Javascript :
+  https://www.dicoding.com/certificates/NVP7KQR4RZR0
+
+- Pengenalan ke Dasar Pemrograman (Basic Programming 101) :
+  https://www.dicoding.com/certificates/MEPJ52NYJP3V
+
+- Meniti Karier sebagai Software Developer :
+  https://www.dicoding.com/certificates/53XEEKOJVXRN
+
+- Memulai Pemrograman Dengan Kotlin :
+  https://www.dicoding.com/certificates/4EXG555M1XRL
+
+- Belajar Dasar Pemrograman Web :
+  https://www.dicoding.com/certificates/NVP7KKKRRZR0
+
+- Belajar Fundamental Front-End Web Development :
+  https://www.dicoding.com/certificates/JLX1GGGM2Z72
+
+* snowdenvasiily@gmail.com *
+- Memulai Pemrograman Dengan Dart :
+  https://www.dicoding.com/certificates/0LZ0D145QX65
+
+- Memulai Pemrograman Dengan Swift :
+  https://www.dicoding.com/certificates/72ZD2O0YJZYW
+
+- Belajar Fundamental Front-End Web Development ( SAMA ) :
+  https://www.dicoding.com/certificates/2RVZKVQ1NXD5
+
+- Belajar Dasar Pemrograman Web ( SAMA ) :
+  https://www.dicoding.com/certificates/981P2ED1YXOY
+
+- Memulai Pemrograman Dengan Kotlin ( SAMA ) :
+  https://www.dicoding.com/certificates/JLX1G96E6Z72
+
+* begusibrahim67@gmail.com *
+- Belajar Dasar Pemrograman Web ( SAMA ) :
+  https://www.dicoding.com/certificates/1RXYME9V3XVM
+
+- Memulai Pemrograman Dengan Python : 
+  https://www.dicoding.com/certificates/1RXYMMMKMXVM
+
+* buildprogramuseful@gmail.com *
+- Belajar Dasar Pemrograman Javascript ( SAMA ) :
+  https://www.dicoding.com/certificates/81P2GLRDYPOY
+
+* salahsatujalanbesar@gmail.com *
+- Belajar Dasar-Dasar DevOps :
+  https://www.dicoding.com/certificates/QLZ9K7OLMZ5D
+
+* salahsatujalanbesar2@gmail.com *
+- nothing
+
+* qeylanisa0807@gmail.com *
+- nothing
+
+=== LINK SERTIFIKAT PROGATE ===
+* begusibrahim000@gmail.com *
+- Path Pengambangan Web(Node.js) :
+  https://progate.com/path_certificate/840580b0qfb960
+
+=== LINK SERTIFIKAT SKILVUL ===
+* begusibrahim000@gmail.com *
+- Javascript Dasar (Gold) :
+  1.) https://badgr.com/public/assertions/fe-YIlnMQhulcawmEq4D1g?identity__email=begusibrahim000@gmail.com
+
+  2.) https://skilvul.com/courses/javascript-dasar/student/ckl0l4lp5st1n0757so6g1iy9
+
+- CSS Dasar (Silver)
+  1.) https://badgr.com/public/assertions/hGKQyLmgTseYMZ8qttl9Og?identity__email=begusibrahim000@gmail.com
+
+  2.) https://skilvul.com/courses/css-dasar/student/ckl0l4lp5st1n0757so6g1iy9
+
+- HTML Dasar (Gold)
+  1.) https://badgr.com/public/assertions/ObkxqhxFQZSJ4pq0fzO71g?identity__email=begusibrahim000@gmail.com
+
+  2.) https://skilvul.com/courses/html-dasar/student/ckl0l4lp5st1n0757so6g1iy9
+
+=== LINK SERTIFIKAT CODEPOLITAN ===
+* begusibrahim000@gmail.com *
+- Proyek Sederhana Svelte - Todo App :
+  https://www.codepolitan.com/c/G6YLOVD/
+
+- Implementasi Payment Gateway Indonesia Menggunakan Laravel :
+  https://www.codepolitan.com/c/LCJWWPX/
+
+- Optimasi Kinerja Laravel dengan Redis :
+  https://www.codepolitan.com/c/R0JMAJK/
+
+-  Fitur Baru Laravel 7 :
+   https://www.codepolitan.com/c/N49WLXD
+
+- Laravel 8x Fundamental :
+  https://www.codepolitan.com/c/CTKK5NM
+
+- Setting Up Server dengan Alibaba Cloud Elastic Compute Service :
+  https://www.codepolitan.com/c/GSTIJ5S
+
+- Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah :
+  https://www.codepolitan.com/c/QF3XK8L
+
+- Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway :
+  https://www.codepolitan.com/c/P4RUZGP
+
+- Membangun Aplikasi Cek Ongkir Menggunakan Laravel :
+  https://www.codepolitan.com/c/WTL3CEZ
+
+- Studi Kasus Web Geolocation dengan Laravel dan HERE Maps :
+  https://www.codepolitan.com/c/N9EHRPZ
+
+- Dasar-dasar Framework Laravel 6 :
+  https://www.codepolitan.com/c/LIGOTVD
+
+- Membangun RESTful API dengan Laravel 6 :
+  https://www.codepolitan.com/c/7WLXQS4
+
+- Pengenalan SASS Pada CSS :
+  https://www.codepolitan.com/c/3PUJHV5
+
+- Menggunakan Bootstrap Framework :
+  https://www.codepolitan.com/c/S8W5OMH
+
+- Membuat Landing Page Website dengan Bootstrap 4 :
+  https://www.codepolitan.com/c/3SLYWNM
+
+- Membuat Halaman Website Portofolio Menggunakan Tailwind CSS :
+  https://www.codepolitan.com/c/XDPAQRA
+
+- Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi :
+  https://www.codepolitan.com/c/V0WZFFD
+
+- Membuat REST API dengan Express dan MySQL - Studi Kasus Classified Ads :
+  https://www.codepolitan.com/c/UIEC2ZL
+
+- Laravel 6 Intermediate :
+  https://www.codepolitan.com/c/KC8O2GF
+
+- Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6 :
+  https://www.codepolitan.com/c/DEC6KST
+
+- Belajar Cepat Membuat Web App Berbasis React :
+  https://www.codepolitan.com/c/XKQYWHQ
+
+- Membuat Aplikasi Presensi Online Berbasis Web dan Mobile :
+  https://www.codepolitan.com/c/YIEOFVQ
+
+- Membuat Aplikasi Presensi Android Berbasis Lokasi :
+  https://www.codepolitan.com/c/EBXAOAX
+
+- Pemrograman Berorientasi Objek di PHP :
+  https://www.codepolitan.com/c/HJU8EYL
+
+- Membuat Chat Group dengan Vue 3 dan Firebase :
+  https://www.codepolitan.com/c/HFW6CTG
+
+- Membuat Aplikasi Quiz dengan RecyclerView :
+  https://www.codepolitan.com/c/2CQX9G4
+
+- Membuat Infinite Scroll Timeline seperti Instagram di Aplikasi Android :
+  https://www.codepolitan.com/c/GNRD2VC
+
+- Membuat Aplikasi Android Manajemen Tugas :
+  https://www.codepolitan.com/c/35SOTGS
+
+- Implementasi ViewModel pada Aplikasi Android :
+  https://www.codepolitan.com/c/2DTL6EM
+
+- Implementasi Firebase Auth di Android :
+  https://www.codepolitan.com/c/HNIVTLQ
+
+- Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase :
+  https://www.codepolitan.com/c/KSORUJN
+
+- Membangun Website Toko Online Berbasis CodeIgniter :
+  https://www.codepolitan.com/c/4VP7OPD
+
+- Android Development Starter Pack :
+  https://www.codepolitan.com/c/TWHR1BM
+
+- Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue :
+  https://www.codepolitan.com/c/EUAPS3O
+
+=== LINK SERTIFIKAT UDEMY ===
+* begusibrahim000@gmail.com *
+- Burp Suite Unfiltered - Go from a Beginner to Advanced! :
+  https://www.udemy.com/certificate/UC-7482c574-3399-4754-bdd0-2ec4b68347a6/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email
+
+=== LINK SERTIFIKAT WEBINER & PKL & Putsal ===
+* begusibrahim000@gmail.com -
+- Web Engineer - Begus Ibrahim :
+  https://drive.google.com/drive/folders/1QxVxOxh74PaLP1gOEjNJOWnNBpcR7IZs?usp=sharing
+
+=== LINK SOSIAL MEDIA PROGRAMMER ===
+- Sribulancer
+  https://sribulancer.com/id/users/myjobs12345
+
+- Github
+  https://github.com/begusibrahim000
+
+- Linkedin
+  https://www.linkedin.com/in/begus-ibrahim-5b7371191/
+
+- Twitter
+  https://twitter.com/IbrahimBegus
+
+- Website
+  https://begusibrahim000.wordpress.com
